@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE7FB7B5-6529-413E-9722-CC6998442131}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RealtorCompany</RootNamespace>
+    <AssemblyName>RealtorCompany</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>if_Key_379501.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>D:\Николай\Рабочая\ШАГ\C# Material Dzn\DOPFNsDemo1\DOPFNsDemo1\bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialSkin">
+      <HintPath>..\..\WF_material\packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control\ControlAddApart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ControlAddApart.Designer.cs">
+      <DependentUpon>ControlAddApart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\ControlChangeApart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ControlChangeApart.Designer.cs">
+      <DependentUpon>ControlChangeApart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\ControlMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ControlMain.Designer.cs">
+      <DependentUpon>ControlMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\ControlChangeEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ControlChangeEmployee.Designer.cs">
+      <DependentUpon>ControlChangeEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\ControlSale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ControlSale.Designer.cs">
+      <DependentUpon>ControlSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\ControlStatistic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ControlStatistic.Designer.cs">
+      <DependentUpon>ControlStatistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\Apartment.cs" />
+    <Compile Include="Database\Booking.cs" />
+    <Compile Include="Database\Purchase.cs" />
+    <Compile Include="Database\Client.cs" />
+    <Compile Include="Database\Emploee.cs" />
+    <Compile Include="Database\Picture.cs" />
+    <Compile Include="Database\RealtorContext.cs" />
+    <Compile Include="DBWork.cs" />
+    <Compile Include="Control\ControlCatalog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ControlCatalog.Designer.cs">
+      <DependentUpon>ControlCatalog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\ControlBooking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ControlBooking.Designer.cs">
+      <DependentUpon>ControlBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201804211757042_InitialCreate.cs" />
+    <Compile Include="Migrations\201804211757042_InitialCreate.Designer.cs">
+      <DependentUpon>201804211757042_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201805180837334_Add_NameMigration.cs" />
+    <Compile Include="Migrations\201805180837334_Add_NameMigration.Designer.cs">
+      <DependentUpon>201805180837334_Add_NameMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201805181301436_Add_NameMigration1.cs" />
+    <Compile Include="Migrations\201805181301436_Add_NameMigration1.Designer.cs">
+      <DependentUpon>201805181301436_Add_NameMigration1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Control\ControlAddApart.resx">
+      <DependentUpon>ControlAddApart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ControlChangeApart.resx">
+      <DependentUpon>ControlChangeApart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ControlMain.resx">
+      <DependentUpon>ControlMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ControlChangeEmployee.resx">
+      <DependentUpon>ControlChangeEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ControlCatalog.resx">
+      <DependentUpon>ControlCatalog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ControlBooking.resx">
+      <DependentUpon>ControlBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ControlSale.resx">
+      <DependentUpon>ControlSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ControlStatistic.resx">
+      <DependentUpon>ControlStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804211757042_InitialCreate.resx">
+      <DependentUpon>201804211757042_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201805180837334_Add_NameMigration.resx">
+      <DependentUpon>201805180837334_Add_NameMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201805181301436_Add_NameMigration1.resx">
+      <DependentUpon>201805181301436_Add_NameMigration1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-left-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-undo-filled-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="if_Key_379501.ico" />
+    <None Include="Resources\icons8-detective-64.png" />
+    <None Include="Resources\arrowR.png" />
+    <None Include="Resources\arrowL.png" />
+    <None Include="Resources\if_human_1216577.png" />
+    <None Include="Resources\if_th-menu-outline_216423.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

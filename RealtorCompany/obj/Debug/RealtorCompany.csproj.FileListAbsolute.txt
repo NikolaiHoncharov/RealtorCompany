@@ -1,0 +1,87 @@
+c:\users\nikc\documents\visual studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.exe.config
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.exe
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.pdb
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.xml
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.FrmLogin.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.FrmMain.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Properties.Resources.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.csproj.GenerateResource.Cache
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.exe
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.pdb
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\MaterialSkin.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.ControlChangeEmployee.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.ControlMain.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.csproj.ResolveComReference.cache
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Migrations.InitialCreate.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Forms.ControlCatalog.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.csprojResolveAssemblyReference.cache
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Forms.ControlBooking.resources
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.exe
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.pdb
+F:\Рабочие документы\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.exe.config
+F:\Рабочие документы\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.exe
+F:\Рабочие документы\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.pdb
+F:\Рабочие документы\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.dll
+F:\Рабочие документы\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.SqlServer.dll
+F:\Рабочие документы\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.xml
+F:\Рабочие документы\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.SqlServer.xml
+F:\Рабочие документы\RealtorCompany\RealtorCompany\bin\Debug\Interop.AcroPDFLib.dll
+F:\Рабочие документы\RealtorCompany\RealtorCompany\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.csprojResolveAssemblyReference.cache
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\Interop.AcroPDFLib.dll
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.csproj.ResolveComReference.cache
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.ControlMain.resources
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.ControlChangeEmployee.resources
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Forms.ControlCatalog.resources
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Forms.ControlBooking.resources
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.FrmLogin.resources
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.FrmMain.resources
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Migrations.InitialCreate.resources
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Properties.Resources.resources
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.csproj.GenerateResource.Cache
+F:\Рабочие документы\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Control.ControlAddApart.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.exe.config
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.csproj.ResolveComReference.cache
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.exe
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.pdb
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.exe
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.pdb
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.dll
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.xml
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Control.ControlAddApart.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.ControlMain.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.ControlChangeEmployee.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Forms.ControlCatalog.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Forms.ControlBooking.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.FrmLogin.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.FrmMain.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Migrations.InitialCreate.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Properties.Resources.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.csproj.GenerateResource.Cache
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Migrations.Add_NameMigration.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Control.ControlChangeApart.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Control.ControlStatistic.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Migrations.Add_NameMigration1.resources
+C:\Users\Nikc\Desktop\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.Control.ControlSale.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\RealtorCompany\RealtorCompany\bin\Debug\RealtorCompany.exe.config
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\RealtorCompany\RealtorCompany\obj\Debug\Interop.AcroPDFLib.dll
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\RealtorCompany\RealtorCompany\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.csproj.ResolveComReference.cache
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.exe
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\RealtorCompany\RealtorCompany\obj\Debug\RealtorCompany.pdb
